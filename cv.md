@@ -14,3 +14,13 @@ Have a high threshold emotional, stubborn in the final result, positive, cheerfu
 ## Code examples:
 - https://flatronsamatron.github.io/glaccy/
 - https://flatronsamatron.github.io/chamomile/
+## Experience:
+- Layout Designer, Web Master (2019 - now)
+## Education:
+- htmlacademy.ru
+- youtube.com
+- udemy.com
+## Language:
+- Ukraine: native
+- Russian: native
+- English: pre-intermediate
