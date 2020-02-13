@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+img{
+    border:1px black solid
+}
+.center{
+    width: 1024px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
